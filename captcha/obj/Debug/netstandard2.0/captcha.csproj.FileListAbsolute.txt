@@ -1,0 +1,8 @@
+C:\Users\user.UIT\Desktop\Прохорова\captcha\bin\Debug\netstandard2.0\captcha.deps.json
+C:\Users\user.UIT\Desktop\Прохорова\captcha\bin\Debug\netstandard2.0\captcha.dll
+C:\Users\user.UIT\Desktop\Прохорова\captcha\bin\Debug\netstandard2.0\captcha.pdb
+C:\Users\user.UIT\Desktop\Прохорова\captcha\obj\Debug\netstandard2.0\captcha.csprojAssemblyReference.cache
+C:\Users\user.UIT\Desktop\Прохорова\captcha\obj\Debug\netstandard2.0\captcha.AssemblyInfoInputs.cache
+C:\Users\user.UIT\Desktop\Прохорова\captcha\obj\Debug\netstandard2.0\captcha.AssemblyInfo.cs
+C:\Users\user.UIT\Desktop\Прохорова\captcha\obj\Debug\netstandard2.0\captcha.dll
+C:\Users\user.UIT\Desktop\Прохорова\captcha\obj\Debug\netstandard2.0\captcha.pdb
